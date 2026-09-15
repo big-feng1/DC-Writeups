@@ -1,5 +1,5 @@
 # DC靶场 Writeup
-VulnHub DC系列靶场渗透笔记，全部靶场内容统一写在 [wp.md](./wp.md)
+VulnHub DC系列靶场渗透笔记，全部靶场内容统一写在 [DC.md](./DC.md)
 
 ### 靶场列表
 DC-1 ~ DC-9
